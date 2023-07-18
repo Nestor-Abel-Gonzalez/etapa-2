@@ -1,0 +1,15 @@
+body{
+  
+  
+  margin:0;
+
+  background-image: url('/src/assets/graficoIni.jpg');
+  background-size: cover;
+  width: 100%;
+  min-height: 100vh;
+  max-width: 100px; /* TamaÃ±o determinado, ajusta segÃºn tus necesidades */
+  margin: 0 auto; /* Centra el contenido horizontalmente */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
